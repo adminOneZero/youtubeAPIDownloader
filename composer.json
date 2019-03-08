@@ -1,0 +1,9 @@
+{
+    "name": "adminone/youtube_api",
+    "description": "youtubbe api to get one vedio download link and information | you can use this api into telegram bot or any usege | usege : my_api.com.webhook.php?url=<youtubelink>",
+    "type": "project",
+    "require": {
+        "masih/youtubedownloader": "^2.9"
+    },
+    "license": "MIT"
+}
